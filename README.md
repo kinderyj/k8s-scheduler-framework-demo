@@ -5,7 +5,7 @@ This repo is a demo for the feature scheduler framework based on kubernetes 1.16
 
 Note that the feature scheduler framework in kubernetes 1.15 is in alpha, and this feature will not graduate to Beta in 1.17/1.18.
 
-For the progress of the scheduler framework, please refer to the [enhancements](https://github.com/kubernetes/enhancements/issues/624)
+For the progress of the scheduler framework, please refer to the [enhancements](https://github.com/kubernetes/enhancements/issues/624).
 
 ## Get Started 
 
@@ -55,7 +55,7 @@ EOF
 ## How the dependencies inited for kubernetes 1.16.
 pin all the dependencies to a matching level of k8s.io/kubernetes.
 You can use v0.x.y for the published components that correspond to Kubernetes v1.x.y without needing to figure out the timestamps/hashes. 
-This is available in 1.15.10+, 1.16.4+, and 1.17.0+. For Kubernetes 1.15, all the dependencies lists as below. 
+This is available in 1.15.10+, 1.16.4+, and 1.17.0+. For Kubernetes 1.16, all the dependencies lists as below. 
 ```
 require k8s.io/kubernetes v1.16.4
 replace (
