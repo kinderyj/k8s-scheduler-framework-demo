@@ -5,7 +5,7 @@ This repo is a demo for the feature scheduler framework based on kubernetes 1.16
 
 Note that the feature scheduler framework in kubernetes 1.15 is in alpha, and this feature will not graduate to Beta in 1.17/1.18.
 
-For the progress of the scheduler framework, please refer to the （[enhancements] (https://github.com/kubernetes/enhancements/issues/624))
+For the progress of the scheduler framework, please refer to the [enhancements](https://github.com/kubernetes/enhancements/issues/624)
 
 ## Get Started 
 
