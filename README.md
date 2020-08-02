@@ -1,5 +1,5 @@
 
-# Scheduler FrameWork demo
+# Scheduler Framework demo
 
 This repo is a demo for the feature scheduler framework based on kubernetes 1.16.
 
